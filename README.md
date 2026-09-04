@@ -1,2 +1,0 @@
-# packcheck-ai
-CodeWave project 
